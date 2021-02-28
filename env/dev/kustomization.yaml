@@ -6,4 +6,4 @@ resources:
 - ../../base
 images:
 - name: arm7tdmi/node-hello-world
-  newTag: "187"
+  newTag: "188"
